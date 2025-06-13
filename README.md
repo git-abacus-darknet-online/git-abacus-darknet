@@ -75,4 +75,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/static/smooth.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/static/module.webp" alt="Abacus Register" style="max-width: 100%;"></a> 
 
-Update: Corrected broken authentication guide links
+
+
+Update:  06/13/2025
