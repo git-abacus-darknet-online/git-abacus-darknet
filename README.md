@@ -77,4 +77,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  06/13/2025
+
+
+Update: Download URLs
