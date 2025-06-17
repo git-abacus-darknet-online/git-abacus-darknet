@@ -79,4 +79,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update: Download URLs
+
+
+Update:  06/17/2025 05-23 Updated IDE configuration documentation
