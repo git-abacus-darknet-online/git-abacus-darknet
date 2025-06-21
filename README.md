@@ -81,4 +81,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  06/17/2025 05-23 Updated IDE configuration documentation
+
+
+Update:  21.06.2025 Fixed broken url, now reachable
