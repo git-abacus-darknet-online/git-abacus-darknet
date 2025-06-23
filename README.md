@@ -83,4 +83,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  21.06.2025 Fixed broken url, now reachable
+
+
+Update: Fixed broken links in deployment documentation
