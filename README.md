@@ -85,4 +85,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update: Fixed broken links in deployment documentation
+
+
+Update:  Tuesday 24 June 2025 Resource URLs
