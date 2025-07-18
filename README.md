@@ -95,4 +95,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  14.07.2025 04:12 link is accessible again
+
+
+Update:  Friday 18 July 2025
