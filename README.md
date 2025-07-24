@@ -99,4 +99,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  07/21/2025 Reference fixes
+
+
+Update: Fixed navigation menu link errors
